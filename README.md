@@ -2,7 +2,7 @@
 
 *This is my final project*
 
-This is a link to my [About page](about.html)
+Hello! My name is Naomi Bekuretsion and I am a senior currently enrolled in ENGL1650. Click [here](AboutMe.md) to learn more about me!
 
 This is a link to my [EC Project]
 
