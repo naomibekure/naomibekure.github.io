@@ -8,7 +8,7 @@
   
   ![eritrea flag](https://github.com/user-attachments/assets/599f2e53-4184-4e88-9c88-d56937e7dc2f)
 
-**My hobbies include:* *
+**My hobbies include:**
 * Reading fiction
 * Baking
 * Making lattes for my friends
