@@ -1,14 +1,5 @@
----
-title: Penitence, Power, and Creativity at Eastern State
-author: Naomi Bekuretsion
-description: An exploration of the inteprlay between faith and carceral power in Eastern State through the medium of murals painted by an incarcerated person, and the written teachings of Catholic chaplains that discipled him.
-thumbnail: 
-alt-text: Lester Smith photographed at Eastern State in the 1950s.
-date: 2025-1-20
-layout: post
-tags:
-  - blog
----
+# Penitence, Power, and Creativity at Eastern State
+**by: Naomi Bekuretsion** 
 
 Eastern State Penitentiary was the world's first penitentiary, and the institution's construction reflected the philosophy of carceral punishment centered on penitence and solitary confinement. This visceral philosophy manifested in the prison's striking design features: cells isolated from the main corridor, small feeding holes for delivering meals to incarcerated individuals, and extensive security measures (as of becoming a maximum security prison in 1940). These architectural elements were intended to create "a building designed to foster penitence and regret." While such extreme carceral conditions fundamentally undermined the humanity of incarcerated people, many inmates nonetheless found ways to create art, forge connections, and build community within these harsh constraints. Lester Smith’s murals that adorned the Chaplains halls represent the fascinating interplay of faith, penitence, and artistic creation despite carcel conditions at Eastern State. 
 
